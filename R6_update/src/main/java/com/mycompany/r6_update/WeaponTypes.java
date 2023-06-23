@@ -5,7 +5,7 @@ public enum WeaponTypes {
     HANDGUN("handgun"),
     ASSALUT_RIFLE("assalut rifle"),
     SUBMACHINE_GUN("submachine gun"),
-    MARSKSMAN_RIFLE("marksman rifle"),
+    MARKSMAN_RIFLE("marksman rifle"),
     HAND_CANNON("hand cannon"),
     MACHINE_PISTOL("machine pistol");
 

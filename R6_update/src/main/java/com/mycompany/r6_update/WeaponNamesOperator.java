@@ -116,16 +116,6 @@ public class WeaponNamesOperator {
     //String[] MP5 = {"Luison"};
     //String[] C75 Auto = {"Dokkaebi","Vigil","Kali"};
     //String[] Gonne-6 = {"Glaz","Buck","Capitão","Dokkaebi","Lion","Finka","Gridlock","Amaru","Zero","Sense"};
-    //String[] MK1 9mm = {"Buck","Iana"};
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    //String[] MK1 9mm = {"Buck","Iana"};    
     
 }

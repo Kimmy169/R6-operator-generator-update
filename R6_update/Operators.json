@@ -1,0 +1,342 @@
+[
+    {
+    "Name": "Sledge",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Born in the far north of Scotland, Cowden’s military father and nurse mother moved to Inverness with him and his three siblings when he was five. His athleticism elevated him to the position of Captain of the 1998 Scotland Under-20s Rugby Union Team. Following a long family tradition of military service, Cowden joined the 3rd UK Mechanised Division of the British Army. His drive and physique suit the division’s historical nickname of “Iron Sides.” Cowden’s first assignment was in the Armoured Division where he studied engineering and specialized in upgrading the infantry combat vehicles. From there, he developed various breaching tactics. He was then recruited into the SAS, where he holds multiple records in speed and strength. An expert in mechanical, ballistic, explosive and thermal breaching strategies, Cowden is the operator to choose for quick and relatively silent destruction.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Thatcher",
+      "Side": "Attacker",
+        "Speciality": "Anti-gadget, Support",
+        "Squad": "Viperstrike",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","AR33","P226 MK 25"],
+        "Unique ability": "EMP granade"
+},
+{
+    "Name": "Ash",
+      "Side": "Attacker",
+        "Speciality": "Breacher, Front line",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "R4-C","G36C","5.7 USG","M45 MEUSOC"],
+        "Unique ability": "Breaching rounds"
+},
+{
+    "Name": "Thermite",
+      "Side": "Attacker",
+        "Speciality": "Breacher, Support",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "M1014","556XI","5.7 USG","M45 MEUSOC"],
+        "Unique ability": "Exothermic charge"
+},
+{
+    "Name": "Twitch",
+      "Side": "Attacker",
+        "Speciality": "Anti-gadget, Intel",
+        "Squad": "Wolfguard",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "417","F2","SG-CQB","P9","LFP586"],
+        "Unique ability": "Shock drones"
+},
+{
+    "Name": "Montagne",
+      "Side": "Attacker",
+        "Speciality": "Intel, Support",
+        "Squad": "Wolfguard",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "LE ROC SHIELD","P9","LFP586"],
+        "Unique ability": "LE ROC SHIELD"
+},
+{
+    "Name": "IQ",
+      "Side": "Attacker",
+        "Speciality": "Intel, Support",
+        "Squad": "Nighthaven",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "AUG A2","552 COMMANDO","G8A1","P12"],
+        "Unique ability": "Electronics detector"
+},
+{
+    "Name": "Blitz",
+      "Side": "Attacker",
+        "Speciality": "Front line, Map control",
+        "Squad": "Viperstrike",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "G52-TACTICAL SHIELD","P12"],
+        "Unique ability": "Flash shield"
+},
+{
+    "Name": "Glaz",
+      "Side": "Attacker",
+        "Speciality": "Intel, Support",
+        "Squad": "Ghosteyes",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "OTS-03","PMM","GONNE-6"],
+        "Unique ability": "Flip sight"
+},
+{
+    "Name": "Fuze",
+      "Side": "Attacker",
+        "Speciality": "Anti-gadget",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "AK-12","6P41","Ballistic Shield,PMM,GSH-18"],
+        "Unique ability": "Cluster charge"
+},
+{
+    "Name": "Buck",
+      "Side": "Attacker",
+        "Speciality": "Breacher, Support",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "C8-SFW","CAMRS","MK1 9MM"],
+        "Unique ability": "Skeleton key"
+},
+{
+    "Name": "Blackbeard",
+      "Side": "Attacker",
+        "Speciality": "Support",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "MK17 CQB","SR-25","D-50"],
+        "Unique ability": "Rifle shield"
+},
+{
+    "Name": "Capitão",
+      "Side": "Attacker",
+        "Speciality": "Front line, Map control",
+        "Squad": "Viperstrike",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "PARA-308","M249","PRB92"],
+        "Unique ability": "Tactical crossbow"
+},
+{
+    "Name": "Hibana",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Jackal",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Ying",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Zofia",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Dokkaebi",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Finka",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Lion",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Maverick",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Nomad",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Gridlock",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Nøkk",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Amaru",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Kali",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Iana",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Ace",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Zero",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Flores",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Osa",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Sens",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Grim",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+},
+{
+    "Name": "Brava",
+      "Side": "Attacker",
+        "Speciality": "Breacher",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "L85A2","M590A1","P226 MK 25"],
+        "Unique ability": "Tactical breaching hammer"
+}
+    ]

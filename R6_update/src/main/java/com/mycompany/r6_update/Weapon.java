@@ -1,39 +1,39 @@
 package com.mycompany.r6_update;
 
-import java.util.Arrays;
-
-public class Weapon {
+public class Weapon implements Cloneable{
 
     WeaponTypes weaponType;
     private String name;
-    private String[] sights;
-    private String[] barrels;
-    private String[] grips;
-    private boolean underBarrel;
+    private int id;
+//    private String[] sights;
+//    private String[] barrels;
+//    private String[] grips;
+//    private boolean underBarrel;
 
     //Primary
-    public Weapon(WeaponTypes weaponType, String name, String[] sights, String[] barrels, String[] grips, boolean underBarrel) {
+    public Weapon(WeaponTypes weaponType, String name, int id/*String[] sights, String[] barrels, String[] grips, boolean underBarrel*/) {
         this.weaponType = weaponType;
         this.name = name;
-        this.sights = sights;
-        this.barrels = barrels;
-        this.grips = grips;
-        this.underBarrel = underBarrel;
+        this.id = id;
+//        this.sights = sights;
+//        this.barrels = barrels;
+//        this.grips = grips;
+//        this.underBarrel = underBarrel;
     }
 
     //Secondary
-    public Weapon(WeaponTypes weaponType, String name, String[] barrels, boolean underBarrel) {
-        this.weaponType = weaponType;
-        this.name = name;
-        this.barrels = barrels;
-        this.underBarrel = underBarrel;
-    }
+//    public Weapon(WeaponTypes weaponType, String name, String[] barrels, boolean underBarrel) {
+//        this.weaponType = weaponType;
+//        this.name = name;
+//        this.barrels = barrels;
+//        this.underBarrel = underBarrel;
+//    }
 
     //Shield
-    public Weapon(WeaponTypes weaponType, String name) {
-        this.weaponType = weaponType;
-        this.name = name;
-    }
+//    public Weapon(WeaponTypes weaponType, String name) {
+//        this.weaponType = weaponType;
+//        this.name = name;
+//    }
 
     public String getName() {
         return name;
@@ -43,87 +43,58 @@ public class Weapon {
         this.name = name;
     }
 
-    public String[] getSights() {
-        return sights;
+    public WeaponTypes getWeaponType() {
+        return weaponType;
     }
 
-    public void setSights(String[] sights) {
-        this.sights = sights;
+    public void setWeaponType(WeaponTypes weaponType) {
+        this.weaponType = weaponType;
     }
 
-    public String[] getBarrels() {
-        return barrels;
+    public int getId() {
+        return id;
     }
 
-    public void setBarrels(String[] barrels) {
-        this.barrels = barrels;
+    public void setId(int id) {
+        this.id = id;
     }
+    
 
-    public String[] getGrips() {
-        return grips;
-    }
-
-    public void setGrips(String[] grips) {
-        this.grips = grips;
-    }
-
-    public boolean isUnderBarrel() {
-        return underBarrel;
-    }
-
-    public void setUnderBarrel(boolean underBarrel) {
-        this.underBarrel = underBarrel;
-    }
+//    public String[] getSights() {
+//        return sights;
+//    }
+//
+//    public void setSights(String[] sights) {
+//        this.sights = sights;
+//    }
+//
+//    public String[] getBarrels() {
+//        return barrels;
+//    }
+//
+//    public void setBarrels(String[] barrels) {
+//        this.barrels = barrels;
+//    }
+//
+//    public String[] getGrips() {
+//        return grips;
+//    }
+//
+//    public void setGrips(String[] grips) {
+//        this.grips = grips;
+//    }
+//
+//    public boolean isUnderBarrel() {
+//        return underBarrel;
+//    }
+//
+//    public void setUnderBarrel(boolean underBarrel) {
+//        this.underBarrel = underBarrel;
+//    }
 
     @Override
     public String toString() {
-        return "Weapon{" + "typ"+ weaponType + "name=" + name + ", sights=" + Arrays.toString(sights) + ", barrels=" + Arrays.toString(barrels) + ", grips=" + Arrays.toString(grips) + ", underBarrel=" + underBarrel + '}';
+        return "Weapon{" + "weaponType=" + weaponType + ", name=" + name + ", id=" + id + '}';
     }
 
-    public String isHandgun() {
-
-        return null;
-
-    }
-
-    public String isAssalutRifle() {
-
-        return null;
-
-    }
-
-    public String isMachinePistol() {
-        
-        return null;
-        
-    }
-    public String isShotgun() {
-
-        return null;
-
-    }
-
-    public String isSubmachineGun() {
-
-        return null;
-
-    }
-
-    public String isHandCannon() {
-        
-        return null;
-        
-    }
-    
-    public String isMarksmenRifle() {
-        
-        return null;
-        
-    }
-    
-    public String isShield() {
-        
-        return null;
-        
-    }
 }

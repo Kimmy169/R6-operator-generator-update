@@ -1,0 +1,1822 @@
+[
+    {
+        "Name": "M590A1",
+        "Type": "Shotgun",
+        "Atachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "L85A2",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "AR33",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "2.5x B", "2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "G36C",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "R4-C",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "M1014",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "556XI",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "F2",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "417",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 3.0x", "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "SG-CQB",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Le Roc Shield",
+        "Type": "Shield"
+    },
+    {
+        "Name": "OTs-03",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Ballistic Shield",
+        "Type": "Shield" 
+    },
+    {
+        "Name": "6P41",
+        "Type": "Light Machine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "AK-12",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "G52-Tactical Shield",
+        "Type": "Shield"
+    },
+    {
+        "Name": "Aug A2",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "552 Commando",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "G8A1",
+        "Type": "Light Machine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "C8-SFW",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Camrs",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 3.0x", "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "MK17 CQB",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "SR-25",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 3.0x", "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Para-308",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "M249",
+        "Type": "Light Machine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Type-89",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Supernova",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Suppressor", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "C7E",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "PDW9",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Ita12l",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "T-95 Lsw",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Six12",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "LMG-E",
+        "Type": "Light Machine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "M762",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Mk 14 EBR",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 3.0x", "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "BOSG.12.2",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "V308",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "SPEAR.308",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "6P41",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "SASG-12",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "AR-15.50",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 3.0x", "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "M4",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "AK-74M",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "ARX200",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "F90",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "M249 Saw",
+        "Type": "Light Machine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "FMG-9",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "SIX12 SD",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "CSRX 300",
+        "Type": "Marksman Rifle",
+    },
+    {
+        "Name": "SC300K",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "MP7",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "POF-9",
+        "Type": "Assalut Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "MP5K",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "UMP45",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "MP5",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "P90",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "9x19VSN",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "DP27",
+        "Type": "Light Machine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 3.0x", "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "Reflex D", "None"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "M870",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "416-C Carabine",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Super 90",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "9mm C1",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "MPX",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Scope 3.0x", "Scope 2.5x B", "Scope 2.5x A", "Scope 2.0x", "Scope 1.5x", "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Barrels": [
+                    "Flash hider", "Compensator", "Muzzle brake", "Suppressor", "Extended barrel", "None"
+                ]
+            },
+            {
+                "Grips": [
+                    "Vertical grip", "Angled grip", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+        "Name": "Spas-12",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+                "Sights": [
+                    "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+                ]
+            },
+            {
+                "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "M12",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash hider", "Compensator", "Muzzle brake","Suppressor","Extended barrel","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "Spas-15",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "MP5SD",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Scope 1.5x","Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "Vector.45 ACP",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Scope 1.5x","Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash hider", "Compensator", "Muzzle brake","Suppressor","Extended barrel","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "T-5 SMG",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash hider", "Compensator", "Muzzle brake","Suppressor","Extended barrel","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "Scorpion Evo 3 A1",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash hider", "Compensator", "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "FO-12",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Suppressor","Extended barrel","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "K1A",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash hider", "Compensator", "Muzzle brake","Suppressor","Extended barrel","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "ALDA 5.56",
+        "Type": "Light Machine Gun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash hider", "Compensator", "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "ACS12",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Scope 2.0x","Scope 1.5x","Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "Mx4 Storm",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash hider", "Compensator", "Muzzle brake","Suppressor","Extended barrel","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "CCE Shiedl",
+        "Type": "Shield"
+    },
+    {
+    "Name": "Aug A3",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash hider", "Compensator", "Muzzle brake","Suppressor","Extended barrel","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "TCSG12",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Scope 2.0x","Scope 1.5x","Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Suppressor","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "Commando 9",
+        "Type": "Marksman Rifle",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash hider", "Compensator", "Muzzle brake","Suppressor","Extended barrel","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "510 Roni",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Scope 1.5x","Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash hider", "Compensator", "Muzzle brake","Suppressor","Extended barrel","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "UZK50GI",
+        "Type": "Submachine Gun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash hider", "Compensator", "Muzzle brake","Suppressor","Extended barrel","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    }
+]

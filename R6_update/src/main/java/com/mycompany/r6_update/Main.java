@@ -21,5 +21,6 @@ public class Main extends Management {
                 System.out.println("xd");
         }
         }while (!"3".equals(vstup));
+        
     }
 }

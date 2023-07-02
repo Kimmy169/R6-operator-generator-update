@@ -1,0 +1,507 @@
+[
+{
+    "Name": "P226 MK 25",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "M45 MEUSOC",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "5.7 USG",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "P9",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "LFP586",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "PMM",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "Gonne-6",
+        "Type": "Handcannon"
+    },
+    {
+    "Name": "Bearing 9",
+        "Type": "Machine Pistol",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash Hider","Compensator","Muzzle brake","Suppressor","Extended Barrel","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "GSH-18",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "P12",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "MK1 9mm",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "D-50",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "PRB92",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "P229",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "USP40",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "ITA12S",
+        "Type": "Shotgun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "P226 MK 25",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "Q-929",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "RG15",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "SMG-12",
+        "Type": "Machine Pistol",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "C75 Auto",
+        "Type": "Machine Pistol",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "1911 Tacops",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": ".44 Mag Semi-Auto",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "Super Shorty",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "SDP 9mm",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "SMG-11",
+        "Type": "Machine Pistol",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Grips":[
+                "Vertical grip","Angled grip","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "SPSMG9",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+        "Sights": [
+            "Red dot A", "Red dot B", "Red dot C", "Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "None"
+            ]
+            },
+            {
+            "Barrels": [
+                "Flash Hider","Compensator","Muzzle brake","Suppressor","Extended Barrel","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "P226 MK 25",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "Bailiff 410",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "Luison",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "Kerator .357",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    },
+    {
+    "Name": "P-10C",
+        "Type": "Handgun",
+        "Attachements": [
+            {
+            "Barrels": [
+                "Muzzle brake","Suppressor","None"
+                ]
+            },
+            {
+            "Under Barrel": [
+                    "laser", "none"
+                ]
+            }
+        ]
+    }
+]

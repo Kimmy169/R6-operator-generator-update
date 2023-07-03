@@ -1,0 +1,341 @@
+[
+{
+    "Name": "Smoke",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Trapper",
+        "Squad": "Nighthaven",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "FMG-9","M590A1","P226 MK 25","SMG-11"],
+        "Unique ability": "Remote gas grenade"
+},
+{
+    "Name": "Mute",
+      "Side": "Defender",
+        "Speciality": "Anti-gadget, Crowd control",
+        "Squad": "Viperstrike",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "MP5K","M590A1","P226 MK 25","SMG-11"],
+        "Unique ability": "Signal disturptor"
+},
+{
+    "Name": "Castle",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Support",
+        "Squad": "Wolfguard",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "UMP45","M1014","5.7 USG","Super shorty","M45 MEUSOC"],
+        "Unique ability": "Armor panel"
+},
+{
+    "Name": "Pulse",
+      "Side": "Defender",
+        "Speciality": "Intel, Support",
+        "Squad": "Nighthaven",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "UMP45","M1014","5.7 USG","M45 MEUSOC"],
+        "Unique ability": "Cardiac sensor"
+},
+{
+    "Name": "Doc",
+      "Side": "Defender",
+        "Speciality": "Support",
+        "Squad": "Wolfguard",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "SG-CQB","MP5","P90","P9","LFP586","Bailiff 410"],
+        "Unique ability": "Stim pistol"
+},
+{
+    "Name": "Rook",
+      "Side": "Defender",
+        "Speciality": "Support",
+        "Squad": "Viperstrike",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "SG-CQB","MP5","P90","P9","LFP586","Bailiff 410"],
+        "Unique ability": "Armor pack"
+},
+{
+    "Name": "Kapkan",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Trapper",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "9x19VSN","SASG-12","PMM","GSH-18"],
+        "Unique ability": "Entry denial device"
+},
+{
+    "Name": "Tachanka",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Crow control",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "9x19VSN","DP27","PMM","GSH-18","BEARING 9"],
+        "Unique ability": "Shumikha launcher"
+},
+{
+    "Name": "Jäger",
+      "Side": "Defender",
+        "Speciality": "Anti-gadget, Support",
+        "Squad": "Viperstrike",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "M870","416-C CARBINE","P12"],
+        "Unique ability": "Active defense"
+},
+{
+    "Name": "Bandit",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Anti-gadget",
+        "Squad": "Wolfguard",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "MP7","M870","P12"],
+        "Unique ability": "Shock wire"
+},
+{
+    "Name": "Frost",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Trapper",
+        "Squad": "Wolfguard",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "SUPER 90","9mm C1","MK1 9mm","ITA12S"],
+        "Unique ability": "Welcome mat"
+},
+{
+    "Name": "Valkyrie",
+      "Side": "Defender",
+        "Speciality": "Intel, Support",
+        "Squad": "Ghosteyes",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "MPX","SPAS-12","D-50"],
+        "Unique ability": "Black eye"
+},
+{
+    "Name": "Caveira",
+      "Side": "Defender",
+        "Speciality": "Intel, Crowd control",
+        "Squad": "Ghosteyes",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "M12","SPAS-15","Luison"],
+        "Unique ability": "Silent step"
+},
+{
+    "Name": "Echo",
+      "Side": "Defender",
+        "Speciality": "Intel,Crowd control",
+        "Squad": "Viperstrike",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "SUPERNOVA","MP5SD","P229","Bearing 9"],
+        "Unique ability": "Yokai"
+},
+{
+    "Name": "Mira",
+      "Side": "Defender",
+        "Speciality": "Intel, Support",
+        "Squad": "Viperstrike",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "VECTOR.45 ACP","ITA12L","ITA12S","USP40"],
+        "Unique ability": "Black mirror"
+},
+{
+    "Name": "Lesion",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Trapper",
+        "Squad": "Ghosteyes",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "SIX12 SD","T-5 SMG","Q-929"],
+        "Unique ability": "GU"
+},
+{
+    "Name": "Ela",
+      "Side": "Defender",
+        "Speciality": "Crowd control, Trapper",
+        "Squad": "Nighthaven",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "SCORPION EVO 3 A1","FO-12","RG15"],
+        "Unique ability": "Grzmot mine"
+},
+{
+    "Name": "Vigil",
+      "Side": "Defender",
+        "Speciality": "Anti-gadget, Crowd control",
+        "Squad": "Ghosteyes",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "K1A","BOSG.12.2","C75-Auto","SMG-12"],
+        "Unique ability": "ERC-7"
+},{
+    "Name": "Maestro",
+      "Side": "Defender",
+        "Speciality": "Anti-gadget, Intel",
+        "Squad": "Viperstrike",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "ALDA 5.56","ACS12","Bailiff 410","KERATOS .357"],
+        "Unique ability": "Evil eye"
+},
+{
+    "Name": "Alibi",
+      "Side": "Defender",
+        "Speciality": "Intel, Trapper",
+        "Squad": "Viperstike",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "Mx4 Storm","ACS12","Bailiff 410","KERATOS .357"],
+        "Unique ability": "Prisma"
+},
+{
+    "Name": "Clash",
+      "Side": "Defender",
+        "Speciality": "Intel, Crowd control",
+        "Squad": "Wolfguard",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "CCE Shield","Super shorty","SPSMG9", "P-10C"],
+        "Unique ability": "CCE shield"
+},
+{
+    "Name": "Kaid",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Anti-gadget",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "AUG A3","TCSG12",".44 Mag Semi-Auto","LFP586"],
+        "Unique ability": "Rtila electroclaw"
+},
+{
+    "Name": "Mozzie",
+      "Side": "Defender",
+        "Speciality": "Anti-gadget, Intel",
+        "Squad": "Ghosteyes",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "COMMANDO 9","P10 RONI","SDP 9mm"],
+        "Unique ability": "Pest launcher"
+},
+{
+    "Name": "Warden",
+      "Side": "Defender",
+        "Speciality": "Anti-gadget, Intel",
+        "Squad": "Ghosteyes",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "MPX","M590A1","P-10C","SMG-12"],
+        "Unique ability": "Glance smart glasses"
+},
+{
+    "Name": "Goyo",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Trapper",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "VECTOR .45 ACP","TCSG12","P229"],
+        "Unique ability": "Volcáno canister"
+},
+{
+    "Name": "Wamai",
+      "Side": "Defender",
+        "Speciality": "Anti-gadget, Trapper",
+        "Squad": "Nighthaven",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "AUG A2","MP5K","P12","KERATOS .357"],
+        "Unique ability": "MAG-NET System"
+},
+{
+    "Name": "Oryx",
+      "Side": "Defender",
+        "Speciality": "Support",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "T-5 SMG","SPAS-12","Bailiff 410","USP40"],
+        "Unique ability": "Remah dash"
+},
+{
+    "Name": "Melusi",
+      "Side": "Defender",
+        "Speciality": "Intel, Crowd control",
+        "Squad": "Wolfguard",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "MP5","SUPER 90","RG15"],
+        "Unique ability": "Banshee sonic defense"
+},
+{
+    "Name": "Aruni",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Anti-gadget",
+        "Squad": "Nighthaven",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "P10 RONI","Mk 14 EBR","PRB92"],
+        "Unique ability": "Surya gate"
+},
+{
+    "Name": "Thunderbird",
+      "Side": "Defender",
+        "Speciality": "Support",
+        "Squad": "Wolfguard",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "SPEAR .308","SPAS-15","BEARING 9","Q-929"],
+        "Unique ability": "Kóna station"
+},
+{
+    "Name": "Thorn",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Trapper",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "UZK50GI","M870","1911 TACOPS","C75 Auto"],
+        "Unique ability": "Razorbloom shell"
+},
+{
+    "Name": "Azami",
+      "Side": "Defender",
+        "Speciality": "Anti-entry, Support",
+        "Squad": "Viperstrike",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "9x19VSN","ACS12","D-50"],
+        "Unique ability": "Kiba barrier"
+},
+{
+    "Name": "Solis",
+      "Side": "Defender",
+        "Speciality": "Intel, Support",
+        "Squad": "Ghosteyes",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "P90","ITA12L","SMG-11"],
+        "Unique ability": "Spec-io electro-sensor"
+},
+{
+    "Name": "Fenrir",
+      "Side": "Defender",
+        "Speciality": "Crowd control, Trapper",
+        "Squad": "Redhammer",
+        "Bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus elit at venenatis euismod. Vestibulum fringilla turpis sed enim consequat, vel feugiat nibh sodales. Duis commodo pretium auctor. Aliquam erat volutpat. Cras ullamcorper nibh sit amet metus pulvinar sollicitudin. Sed in posuere mi, eget ullamcorper lectus. Cras fermentum, arcu in posuere vestibulum, est mauris pellentesque orci, eget imperdiet lacus turpis at dolor. Maecenas non varius metus. Integer auctor purus nec fringilla imperdiet.",
+        "Weapons":[
+        "MP7","SASG-12","Bailiff 410","5.7 USG"],
+        "Unique ability": "F-natt dread mine"
+}
+]

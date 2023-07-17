@@ -1,32 +1,60 @@
 package com.mycompany.r6_update;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.nio.charset.StandardCharsets;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class JsonReader {
     public static void main(String[] args) {
-        try {
-            // Read JSON file into a string
-            String json = new String(Files.readAllBytes(Paths.get("D:/GitHub projects/R6-operator-generator-update/R6_update/PrimaryWeapons.json")));
-
-            // Access specific values from the JSON
-            String name = getValue(json, "Name");
-           String type = getValue(json, "Type");
-            
-
-            // Print the values
-            System.out.println("Name: " + name);
-            System.out.println("Type: " + type);
-
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
-    private static String getValue(String json, String key) {
-        int startIndex = json.indexOf("\"" + key + "\"") + key.length() + 3; // Adjust for quotes and colon
-        int endIndex = json.indexOf("\"", startIndex);
-        return json.substring(startIndex, endIndex);
+        /*Primary*/
+            try (BufferedReader pw = new BufferedReader(new FileReader("PrimaryWeapons.json", StandardCharsets.UTF_8))) {
+                String radek = pw.readLine();
+                while (radek != null) {
+                    System.out.println(radek);
+                    radek = pw.readLine();
+                }
+                pw.close();
+            } catch (IOException ex) {
+                Logger.getLogger(JsonReader.class.getName()).log(Level.SEVERE, null, ex);
+                System.err.println("Chyba při čtení!");
+            /*Secondary*/    
+            }try (BufferedReader sw = new BufferedReader(new FileReader("SecondaryWeapons.json", StandardCharsets.UTF_8))) {
+                String radek = sw.readLine();
+                while (radek != null) {
+                    System.out.println(radek);
+                    radek = sw.readLine();
+                }
+                sw.close();
+            } catch (IOException ex) {
+                Logger.getLogger(JsonReader.class.getName()).log(Level.SEVERE, null, ex);
+                System.err.println("Chyba při čtení!");
+            }
+            /*Attackers*/
+            try (BufferedReader at = new BufferedReader(new FileReader("Attackers.json", StandardCharsets.UTF_8))) {
+                String radek = at.readLine();
+                while (radek != null) {
+                    System.out.println(radek);
+                    radek = at.readLine();
+                }
+                at.close();
+            } catch (IOException ex) {
+                Logger.getLogger(JsonReader.class.getName()).log(Level.SEVERE, null, ex);
+                System.err.println("Chyba při čtení!");
+            }
+            /*Defenders*/
+            try (BufferedReader de = new BufferedReader(new FileReader("Defenders.json", StandardCharsets.UTF_8))) {
+                String radek = de.readLine();
+                while (radek != null) {
+                    System.out.println(radek);
+                    radek = de.readLine();
+                }
+                de.close();
+            } catch (IOException ex) {
+                Logger.getLogger(JsonReader.class.getName()).log(Level.SEVERE, null, ex);
+                System.err.println("Chyba při čtení!");
+            }
     }
 }
